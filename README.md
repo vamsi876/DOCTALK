@@ -24,7 +24,7 @@ A powerful, open-source multimodal AI assistant that operates strictly within us
   - Live camera feed analysis
   - Text-based chat interface
 
-- 🌍 **Offline-Capable Translation**
+- 🌍 **-Language Translation**
   - Real-time text translation
   - Voice input translation
   - Support for multiple languages
